@@ -12,3 +12,5 @@ author_image_url: http://www.parentmap.com/images/article/7805/Test_sign.jpg
 # Hi!
 
 This is just a test paragraph
+
+![](/img/2021_03_17_mac.jpg)
